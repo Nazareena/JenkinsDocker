@@ -1,1 +1,1 @@
-echo 'running from docker file'
+RUN echo 'running from docker file'
