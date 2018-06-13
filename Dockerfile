@@ -1,1 +1,2 @@
-RUN echo 'running from docker file'
+ARG JENKINS_HOME=/var/jenkins_home
+RUN mkdir test
